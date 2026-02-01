@@ -10,6 +10,7 @@ Die Messungen belegen Spannungseinbrüche bis auf **201,4 V** (Normgrenze: 207 V
 * [Rohdaten der Langzeitmessung (Intervall: 10 Sek. / 2 Min. Aggregation)](https://github.com/toszlanyi/LangzeitmessungWestnetz/blob/main/solar_log_v3_minmax.csv)
 * [Python-Skript zur Datenerhebung (Modbus/TCP)](https://github.com/toszlanyi/LangzeitmessungWestnetz/blob/main/langzeit.py)
 * [Videodokumentation der Geräteausfälle synchron zu den Messdaten](https://github.com/toszlanyi/LangzeitmessungWestnetz/raw/refs/heads/main/Kochfeld%202026-01-29%2012:10.mp4)
+* [erste Videodokumentation des Geräteausfalls im Dezember 2025](https://github.com/toszlanyi/LangzeitmessungWestnetz/blob/main/Kochfeld%202025-12-26%2018%3A09.mp4)
 
 ## Technik
 * **Hardware:** Eastron SDM630 MCT (Klasse 1), Waveshare RS485-TO-ETH (B) & Raspberry Pi 4.
