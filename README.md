@@ -11,11 +11,6 @@ Die Messungen belegen Spannungseinbrüche bis auf **201,4 V** (Normgrenze: 207 V
 * [Python-Skript zur Datenerhebung (Modbus/TCP)](https://github.com/toszlanyi/LangzeitmessungWestnetz/blob/main/langzeit.py)
 * [Videodokumentation der Geräteausfälle synchron zu den Messdaten](https://github.com/toszlanyi/LangzeitmessungWestnetz/raw/refs/heads/main/Kochfeld%202026-01-29%2012:10.mp4)
 
-Videodokumentation der Geräteausfälle synchron zu den Messdaten
-
-<video src="https://github.com/toszlanyi/LangzeitmessungWestnetz/raw/refs/heads/main/Kochfeld%202026-01-29%2012:10.mp4" controls="controls" style="max-width: 100%;">
-</video>
-
 ## Technik
 * **Hardware:** Eastron SDM630 MCT (Klasse 1), Waveshare RS485-TO-ETH (B) & Raspberry Pi 4.
 * **Methodik:** Kontinuierliches Logging der Phasenströme und -spannungen zur Identifikation von Netzimpedanzproblemen.
